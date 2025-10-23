@@ -4,7 +4,7 @@ metadata:
   name: python-app-2
   description: Python app that displays host, time, and a message.
   annotations:
-    github.com/project-slug: bradcreech/python-app-2
+    github.com/project-slug: bradcreech-org/python-app-2
     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
